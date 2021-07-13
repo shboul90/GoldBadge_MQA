@@ -1,0 +1,12 @@
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.UI.exe.config
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.UI.exe
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.UI.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.models.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.Repos.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.models.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\bin\Debug\Cafe.Repos.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\obj\Debug\Cafe.UI.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\obj\Debug\Cafe.UI.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\obj\Debug\Cafe.UI.csproj.CopyComplete
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\obj\Debug\Cafe.UI.exe
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Cafe.UI\obj\Debug\Cafe.UI.pdb

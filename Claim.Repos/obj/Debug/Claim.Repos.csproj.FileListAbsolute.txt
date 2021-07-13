@@ -1,0 +1,9 @@
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\bin\Debug\Claim.Repos.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\bin\Debug\Claim.Repos.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\bin\Debug\Claim.models.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\bin\Debug\Claim.models.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\obj\Debug\Claim.Repos.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\obj\Debug\Claim.Repos.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\obj\Debug\Claim.Repos.csproj.CopyComplete
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\obj\Debug\Claim.Repos.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Claim.Repos\obj\Debug\Claim.Repos.pdb
