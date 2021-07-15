@@ -204,19 +204,30 @@ namespace Claim.UI
         private void TakeCareOfClaim()
         {
             Console.Clear();
-            Queue<Claims> _QueueOfAllClaims = _claimsItemsRepo.GetClaimsQueue();
-            String[] header = { "ClaimID", "Type", "Description", "Amount", "DateOfAccident", "DateOfClaim", "IsValid" };
+            Queue<Claims> _queueOfAllClaims = _claimsItemsRepo.GetClaimsQueue();
+            bool user;
 
-            Console.WriteLine("Here are the details for the next claim to be handled:\n\n" +
-                $"{header[0]}: {_QueueOfAllClaims.Peek().ClaimID}\n\n" +
-                $"{header[1]}: {_QueueOfAllClaims.Peek().ClaimType}\n\n" +
-                $"{header[2]}: {_QueueOfAllClaims.Peek().Description}\n\n" +
-                $"{header[3]}: ${_QueueOfAllClaims.Peek().ClaimAmount}\n\n" +
-                $"{header[4]}: {_QueueOfAllClaims.Peek().DateOfIncident.ToString("M/dd/yyyy")}\n\n" +
-                $"{header[5]}: {_QueueOfAllClaims.Peek().DateOfClaim.ToString("M/dd/yyyy")}\n\n" +
-                $"{header[6]}: {_QueueOfAllClaims.Peek().IsValid}\n\n" +
-                $"Do you want to deal with this claim now(y/n)?");
-            bool user = true;
+            if (_queueOfAllClaims is null || _queueOfAllClaims.Count == 0)
+            {
+                Console.WriteLine("There are no items in the queue");
+                user = false;
+            }
+            else
+            {
+                String[] header = { "ClaimID", "Type", "Description", "Amount", "DateOfAccident", "DateOfClaim", "IsValid" };
+
+                Console.WriteLine("Here are the details for the next claim to be handled:\n\n" +
+                    $"{header[0]}: {_queueOfAllClaims.Peek().ClaimID}\n\n" +
+                    $"{header[1]}: {_queueOfAllClaims.Peek().ClaimType}\n\n" +
+                    $"{header[2]}: {_queueOfAllClaims.Peek().Description}\n\n" +
+                    $"{header[3]}: ${_queueOfAllClaims.Peek().ClaimAmount}\n\n" +
+                    $"{header[4]}: {_queueOfAllClaims.Peek().DateOfIncident.ToString("M/dd/yyyy")}\n\n" +
+                    $"{header[5]}: {_queueOfAllClaims.Peek().DateOfClaim.ToString("M/dd/yyyy")}\n\n" +
+                    $"{header[6]}: {_queueOfAllClaims.Peek().IsValid}\n\n" +
+                    $"Do you want to deal with this claim now(y/n)?");
+                user = true;
+            }
+
             while (user)
             {
                 string userInput = Console.ReadLine();
