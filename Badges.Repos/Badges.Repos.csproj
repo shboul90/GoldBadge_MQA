@@ -44,5 +44,11 @@
     <Compile Include="BadgeRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Badges.Models\Badges.Models.csproj">
+      <Project>{258FD9D3-3528-4DE5-AA7B-8E7F3E446841}</Project>
+      <Name>Badges.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

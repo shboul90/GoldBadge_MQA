@@ -49,11 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="BadgeRepoTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Badges.Models\Badges.Models.csproj">
+      <Project>{258FD9D3-3528-4DE5-AA7B-8E7F3E446841}</Project>
+      <Name>Badges.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Badges.Repos\Badges.Repos.csproj">
+      <Project>{D3D46D00-49BD-4123-AB48-617F6F661725}</Project>
+      <Name>Badges.Repos</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

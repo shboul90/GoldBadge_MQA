@@ -1,0 +1,12 @@
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.UI.exe.config
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.UI.exe
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.UI.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.Models.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.Repos.dll
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.Models.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\bin\Debug\Badges.Repos.pdb
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\obj\Debug\Badges.UI.csprojAssemblyReference.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\obj\Debug\Badges.UI.csproj.CoreCompileInputs.cache
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\obj\Debug\Badges.UI.csproj.CopyComplete
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\obj\Debug\Badges.UI.exe
+E:\ElevenFiftyProjects\GoldBadgeFinal\Gold_Badge_Console_Apps_Challenges_MQA\Badges.UI\obj\Debug\Badges.UI.pdb
